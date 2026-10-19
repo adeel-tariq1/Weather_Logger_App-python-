@@ -91,7 +91,3 @@ This project uses the free [Open-Meteo API](https://open-meteo.com/) for geocodi
 - Automated testing
 - Public deployment
 - Improved search and filtering
-=======
-# Weather_Logger_App-python-
-A Streamlit weather dashboard using Open-Meteo API and SQLite. Build with python
->>>>>>> 076013b7d7f6d7fc9d068d25175586967472c50d
